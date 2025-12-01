@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-![HoangNV2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv2001)](https://github.com/hoangnv2001/github-readme-stats)
-</div>
-
-###
-
 <img align="right" height="120" width="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazYxeXN5Y2dzbDM5ZGl1NWluaHpic3Uwb2lpaXBicXNjb2psMng3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p0dFF6nzn1DZKKyNdo/giphy.gif"  />
 
 ###
