@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-[![HoangNV2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv2001)](https://github.com/hoangnv2001/github-readme-stats)
+![HoangNV2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv2001)](https://github.com/hoangnv2001/github-readme-stats)
 </div>
 
 ###
