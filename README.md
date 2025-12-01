@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoangNV2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+[![HoangNV2001's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangnv2001)](https://github.com/hoangnv2001/github-readme-stats)
 </div>
 
 ###
